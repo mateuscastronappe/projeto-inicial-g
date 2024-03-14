@@ -3,3 +3,5 @@
 # A barra é usada para ignorar nomes de caminhos relativos ao arquivo .gitignore
 # O # é usado para adicionar comentários ao arquivo .gitignore
 
+# Estou ignorando a pasta de configuração do Vs-Code
+.vscode/
